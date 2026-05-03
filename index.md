@@ -17,7 +17,7 @@ gallery:
   
 ---
 <figure claass="align-center">
-	<img src="{{ site.url }}/assets/images/splash.png" alt="">
+	<img src="{{ '/assets/images/splash.png' | relative_url }}" alt="">
 </figure>
 
 # TRNSYS 제품 및 용역 견적 요청
